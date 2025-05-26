@@ -74,4 +74,4 @@ After setting up change git url to the actual repo
 git remote set-url origin https://github.com/username/something.git
 ```
 
-Delete package-lock.json, rename project name and update description in package.json and do npm i again.
+Rename project name and update description in package.json and do npm i again.
